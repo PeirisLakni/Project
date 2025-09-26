@@ -1,0 +1,146 @@
+[
+  {
+    "title":"Packard 255 G2",
+    "price":416.99,
+    "rating":2,
+    "category":"Computers",
+    "subcategory":"Laptops",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/31"
+  },
+  {
+    "title":"Aspire E1-510",
+    "price":306.99,
+    "rating":3,
+    "category":"Computers",
+    "subcategory":"Laptops",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/32"
+  },
+  {
+    "title":"ThinkPad T540p",
+    "price":1178.99,
+    "rating":1,
+    "category":"Computers",
+    "subcategory":"Laptops",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/33"
+  },
+  {
+    "title":"ProBook",
+    "price":739.99,
+    "rating":4,
+    "category":"Computers",
+    "subcategory":"Laptops",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/34"
+  },
+  {
+    "title":"ThinkPad X240",
+    "price":1311.99,
+    "rating":3,
+    "category":"Computers",
+    "subcategory":"Laptops",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/35"
+  },
+  {
+    "title":"Aspire E1-572G",
+    "price":581.99,
+    "rating":1,
+    "category":"Computers",
+    "subcategory":"Laptops",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/36"
+  },
+  {
+    "title":"Lenovo IdeaTab",
+    "price":69.99,
+    "rating":3,
+    "category":"Computers",
+    "subcategory":"Tablets",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/10"
+  },
+  {
+    "title":"Acer Iconia",
+    "price":96.99,
+    "rating":1,
+    "category":"Computers",
+    "subcategory":"Tablets",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/11"
+  },
+  {
+    "title":"Asus MeMO Pad",
+    "price":102.99,
+    "rating":4,
+    "category":"Computers",
+    "subcategory":"Tablets",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/12"
+  },
+  {
+    "title":"Amazon Kindle",
+    "price":103.99,
+    "rating":4,
+    "category":"Computers",
+    "subcategory":"Tablets",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/13"
+  },
+  {
+    "title":"iPad Mini Reti...",
+    "price":537.99,
+    "rating":2,
+    "category":"Computers",
+    "subcategory":"Tablets",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/14"
+  },
+  {
+    "title":"IdeaTab A3500L",
+    "price":88.99,
+    "rating":4,
+    "category":"Computers",
+    "subcategory":"Tablets",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/15"
+  },
+  {
+    "title":"Nokia 123",
+    "price":24.99,
+    "rating":3,
+    "category":"Phones",
+    "subcategory":"Touch",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/1"
+  },
+  {
+    "title":"LG Optimus",
+    "price":57.99,
+    "rating":3,
+    "category":"Phones",
+    "subcategory":"Touch",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/2"
+  },
+  {
+    "title":"Samsung Galaxy",
+    "price":93.99,
+    "rating":3,
+    "category":"Phones",
+    "subcategory":"Touch",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/3"
+  },
+  {
+    "title":"Nokia X",
+    "price":109.99,
+    "rating":4,
+    "category":"Phones",
+    "subcategory":"Touch",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/4"
+  },
+  {
+    "title":"Sony Xperia",
+    "price":118.99,
+    "rating":1,
+    "category":"Phones",
+    "subcategory":"Touch",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/5"
+  },
+  {
+    "title":"Ubuntu Edge",
+    "price":499.99,
+    "rating":1,
+    "category":"Phones",
+    "subcategory":"Touch",
+    "product_url":"https:\/\/webscraper.io\/test-sites\/e-commerce\/static\/product\/6"
+  }
+]

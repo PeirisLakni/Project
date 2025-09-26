@@ -1,0 +1,19 @@
+title,price,rating,category,subcategory,product_url
+Packard 255 G2,416.99,2,Computers,Laptops,https://webscraper.io/test-sites/e-commerce/static/product/31
+Aspire E1-510,306.99,3,Computers,Laptops,https://webscraper.io/test-sites/e-commerce/static/product/32
+ThinkPad T540p,1178.99,1,Computers,Laptops,https://webscraper.io/test-sites/e-commerce/static/product/33
+ProBook,739.99,4,Computers,Laptops,https://webscraper.io/test-sites/e-commerce/static/product/34
+ThinkPad X240,1311.99,3,Computers,Laptops,https://webscraper.io/test-sites/e-commerce/static/product/35
+Aspire E1-572G,581.99,1,Computers,Laptops,https://webscraper.io/test-sites/e-commerce/static/product/36
+Lenovo IdeaTab,69.99,3,Computers,Tablets,https://webscraper.io/test-sites/e-commerce/static/product/10
+Acer Iconia,96.99,1,Computers,Tablets,https://webscraper.io/test-sites/e-commerce/static/product/11
+Asus MeMO Pad,102.99,4,Computers,Tablets,https://webscraper.io/test-sites/e-commerce/static/product/12
+Amazon Kindle,103.99,4,Computers,Tablets,https://webscraper.io/test-sites/e-commerce/static/product/13
+iPad Mini Reti...,537.99,2,Computers,Tablets,https://webscraper.io/test-sites/e-commerce/static/product/14
+IdeaTab A3500L,88.99,4,Computers,Tablets,https://webscraper.io/test-sites/e-commerce/static/product/15
+Nokia 123,24.99,3,Phones,Touch,https://webscraper.io/test-sites/e-commerce/static/product/1
+LG Optimus,57.99,3,Phones,Touch,https://webscraper.io/test-sites/e-commerce/static/product/2
+Samsung Galaxy,93.99,3,Phones,Touch,https://webscraper.io/test-sites/e-commerce/static/product/3
+Nokia X,109.99,4,Phones,Touch,https://webscraper.io/test-sites/e-commerce/static/product/4
+Sony Xperia,118.99,1,Phones,Touch,https://webscraper.io/test-sites/e-commerce/static/product/5
+Ubuntu Edge,499.99,1,Phones,Touch,https://webscraper.io/test-sites/e-commerce/static/product/6
