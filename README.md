@@ -62,23 +62,6 @@ Write the 1000-word report covering privacy (incl. HIPAA context), algorithmic b
 - Q1 uses only the Python standard library.  
 - Q2 typically needs: `requests`, `beautifulsoup4`, `pandas`, `numpy`, `matplotlib`, `plotly`, `scipy` (add others only if used).
 
-## Code Quality
-- Clear names, docstrings, error handling, modular files
-- Regular commits with meaningful messages
-- README explaining how to run each component
-
-## Submission Checklist
-- All code organized per structure above
-- `requirements.txt` at repo root
-- Technical report PDF with:
-  - Executive Summary  
-  - Q1 architecture/design + code explanation  
-  - Q2 methodology, EDA with graphs, and insights  
-  - Q3 ethics framework & recommendations  
-  - Implementation/testing notes + 200-word reflection
-- Plots/diagrams and any code screenshots as needed
-- Appendices for extras
-
 ## Workflow (Git)
 ```bash
 git add .
