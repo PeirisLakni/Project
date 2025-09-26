@@ -1,1 +1,16 @@
+# requirements.txt
+# Q1 – University Management System: uses only Python standard library.
+# Q2 – E-commerce Data Analysis: core dependencies below.
+# Q3 – AI Ethics: typically no external packages unless you add tooling.
 
+requests==2.32.3
+beautifulsoup4==4.12.3
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.2
+plotly==5.24.1
+scipy==1.14.1
+
+# Optional (uncomment only if you use them)
+# seaborn==0.13.2
+# scikit-learn==1.5.1
